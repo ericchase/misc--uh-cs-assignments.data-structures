@@ -1,0 +1,10 @@
+Sky	open	bag
+Sky	buy	5
+Sky	add	6
+Sky	close	bag
+Sky	times	2
+Sky	add	1
+Sky	add	0
+Sky	add	3
+Sky	add	4
+Sky	total

@@ -1,0 +1,7 @@
+Supergirl	3.8	876	Anna
+Elsa	2.4	476	Supergirl
+Batman	3.2	543	Elsa
+Robot	1.1	179	Batman
+Wonderwoman	2.1	843	Anna
+Anna	2.4	476	Anna
+instructions	leaves

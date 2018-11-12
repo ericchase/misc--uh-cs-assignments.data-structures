@@ -1,0 +1,6 @@
+Jubilee	0.4	987	Jubilee
+NightCrawler	4	100	Jubilee
+Magneto	1.5	160	Jubilee
+Havock	2.3	238	Jubilee
+QuickSilver	1.2	987	Jubilee
+instructions	leaves

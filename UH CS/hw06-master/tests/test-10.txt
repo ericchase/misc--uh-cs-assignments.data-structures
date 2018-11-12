@@ -1,0 +1,14 @@
+NightCrawler	4	100	Jubilee
+Hank	4	809	NightCrawler
+Storm	3.7	714	Magneto
+Magneto	1.5	160	Jubilee
+Psylocke	4	400	Havock
+Angel	2.6	560	QuickSilver
+Havock	2.3	238	Jubilee
+Ra	3.1	310	QuickSilver
+Moira	3.4	349	Havock
+QuickSilver	1.2	987	Jubilee
+Xavier	1.8	360	Magneto
+Mystique	2.9	580	NightCrawler
+Jubilee	0.4	987	Jubilee
+instructions	lead2

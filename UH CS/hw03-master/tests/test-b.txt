@@ -1,0 +1,3 @@
+Fitz	buy	0
+Fitz	times	98
+Fitz	total

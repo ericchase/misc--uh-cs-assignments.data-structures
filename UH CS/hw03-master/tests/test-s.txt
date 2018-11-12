@@ -1,0 +1,33 @@
+price	plan	100
+price	charger	12
+Supergirl	buy	plan
+Supergirl	times	3
+Sky	buy	charger
+Supergirl	total
+price	simcard	8
+Sky	add	simcard
+Sky	add	simcard
+Sky	total
+price	candy	4
+Antman	open	bag
+Antman	open	bag
+Director	open	bag
+price	candy	3
+price	simcard	5
+Director	buy	5
+Director	add	candy
+price	plan	25
+Director	close	bag
+Director	discount%	50
+price	uhPhone	100
+Antman	buy	uhPhone
+price	adapter	5
+Antman	discount%	5
+Antman	close	bag
+Antman	add	plan
+Antman	discount%	20
+Antman	add	adapter
+Antman	close	bag
+Antman	discount%	10
+Director	total
+Antman	total

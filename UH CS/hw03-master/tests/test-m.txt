@@ -1,0 +1,4 @@
+price	plan	100
+Supergirl	buy	plan
+Supergirl	times	3
+Supergirl	total

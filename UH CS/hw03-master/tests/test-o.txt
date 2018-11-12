@@ -1,0 +1,9 @@
+price	popcorn	4
+Sky	open	bag
+price	popcorn	3
+price	simcard	5
+Sky	buy	15
+Sky	add	popcorn
+Sky	close	bag
+Sky	discount%	50
+Sky	total

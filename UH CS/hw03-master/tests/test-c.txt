@@ -1,0 +1,2 @@
+Spiderman	buy	134
+Spiderman	total

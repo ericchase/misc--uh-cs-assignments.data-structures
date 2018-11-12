@@ -1,0 +1,14 @@
+price	plan	25
+Director	open	bag
+price	uhPhone	100
+Director	open	bag
+Director	buy	uhPhone
+Director	discount%	5
+Director	close	bag
+Director	add	plan
+price	simcard	5
+Director	discount%	20
+Director	add	simcard
+Director	close	bag
+Director	discount%	10
+Director	total

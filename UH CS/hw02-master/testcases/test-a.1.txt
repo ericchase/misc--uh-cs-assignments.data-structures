@@ -1,0 +1,26 @@
+Marie	ice-cream	strawberry
+Linda	ice-cream	chocolate
+Chris	ice-cream	vanilla
+Pepper	Purchase-order-revise	BATT-1100
+Pepper	Purchase-order-revise	BATT-1109
+Spock	Approve-reservation	cs2320
+Marie	ice-cream	strawberry-cancellation
+Sara	milk-shake	vanilla
+Meriem	ice-cream	lemon
+Ayoub	milk-shake	chocolate
+Kepner	Approve-reservation	Csection
+Harriet	Approve-reservation	Newname
+# special case of canceling a p.o.
+Stark	Approve-purchase-order	BATT-0011
+# looks like the special case of canceling a p.o. but it is not
+Stark	Approve-purchase-order	BATT-0011
+Younes	soft-cookies	vanilla
+Sophie	sweeties	sweeties
+Lisa	milk-shake	strawberry
+Ayoub	milk-shake	vanilla-cancellation
+Sophie	sweeties	sweeties
+Pepper	Purchase-order-cancellation	BATT-1100
+Pepper	Purchase-order-cancellation	BATT-0011
+Kepner	Approve-reservation(Cancelled)	Csection
+Harriet	Approve-reservation(Cancelled)	Newname
+Spock	Approve-reservation(Cancelled)	cs2320

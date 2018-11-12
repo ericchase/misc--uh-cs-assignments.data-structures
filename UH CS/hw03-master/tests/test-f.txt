@@ -1,0 +1,6 @@
+Supergirl	open	bag
+Supergirl	buy	5
+Supergirl	add	13
+Supergirl	close	bag
+Supergirl	discount%	50
+Supergirl	total

@@ -1,0 +1,23 @@
+price	popcorn	4
+Thor	open	bag
+Thor	open	bag
+May	open	bag
+price	popcorn	3
+price	simcard	5
+May	buy	20
+May	add	popcorn
+price	plan	25
+May	close	bag
+May	discount%	50
+price	uhPhone	100
+Thor	buy	uhPhone
+price	adapter	5
+Thor	discount%	5
+Thor	close	bag
+Thor	add	plan
+Thor	discount%	20
+Thor	add	adapter
+Thor	close	bag
+Thor	discount%	10
+May	total
+Thor	total

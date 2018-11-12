@@ -1,0 +1,4 @@
+Supergirl	3.8	876	Anna
+Wonderwoman	2.1	543	Anna
+Anna	2.4	476	Anna
+instructions	leaves

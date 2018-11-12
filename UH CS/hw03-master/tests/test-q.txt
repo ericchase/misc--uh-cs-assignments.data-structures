@@ -1,0 +1,9 @@
+price	plan	110
+price	charger	12
+Spiderman	buy	plan
+Spiderman	times	2
+Supergirl	buy	charger
+Spiderman	total
+price	simcard	8
+Supergirl	add	simcard
+Supergirl	total

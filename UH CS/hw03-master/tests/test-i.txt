@@ -1,0 +1,11 @@
+Gemma	buy	0
+Gemma	add	1
+Gemma	add	2
+Gemma	add	3
+Gemma	add	4
+Gemma	add	5
+Gemma	add	6
+Gemma	times	2
+Gemma	add	8
+Gemma	add	19
+Gemma	total

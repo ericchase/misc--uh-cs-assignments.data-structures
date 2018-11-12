@@ -1,0 +1,3 @@
+Wonderwoman	buy	110
+Wonderwoman	times	2
+Wonderwoman	total

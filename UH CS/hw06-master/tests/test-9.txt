@@ -1,0 +1,14 @@
+Hank	4	809	Storm
+Storm	3.7	714	NightCrawler
+Havock	2.3	238	Hank
+NightCrawler	4	100	Mystique
+Xavier	1.8	360	Ra
+Ra	3.1	310	Magneto
+Magneto	1.5	160	Angel
+Mystique	2.9	580	Xavier
+Angel	2.6	560	Psylocke
+QuickSilver	1.2	120	Jubilee
+Jubilee	3.4	349	Moira
+Moira	0.4	76	Moira
+Psylocke	4	400	QuickSilver
+instructions	lead2

@@ -1,0 +1,3 @@
+Antman	buy	21
+Antman	add	8
+Antman	total

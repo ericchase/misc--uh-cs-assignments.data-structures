@@ -1,0 +1,10 @@
+May	open	bag
+May	buy	1
+May	add	2
+May	close	bag
+May	times	2
+May	times	3
+May	times	4
+May	times	5
+May	add	13
+May	total

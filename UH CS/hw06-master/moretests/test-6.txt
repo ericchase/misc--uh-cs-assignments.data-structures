@@ -1,0 +1,14 @@
+Jubilee	3.4	349	Moira
+Havock	2.3	238	Ra
+Psylocke	4	400	QuickSilver
+QuickSilver	1.2	120	Jubilee
+Ra	3.1	310	Moira
+Mystique	2.9	580	Xavier
+Hank	4	809	Mystique
+Xavier	1.8	360	Ra
+Storm	3.7	714	Mystique
+Angel	2.6	560	Psylocke
+NightCrawler	4	100	Mystique
+Magneto	1.5	160	Xavier
+Moira	0.4	76	Moira
+instructions	lead2

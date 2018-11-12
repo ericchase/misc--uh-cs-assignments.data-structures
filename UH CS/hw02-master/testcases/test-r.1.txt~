@@ -1,0 +1,45 @@
+#test for duplicate subject 
+P1	A	0-0000
+P1	A	0-0001
+P1	B	0-0010
+P2	A	0-0100
+P2	B	0-1000
+P2	B	0-1001
+P3	C	0-1010
+P4	C	0-1100
+P4	C	0-1101
+P5	A	0-1110
+P5	A	0-1111
+P5	B	1-0000
+P5	A	1-0001
+P5	C	1-0010
+P5	A	1-0010
+
+Marie	ice-cream	strawberry
+Linda	ice-cream	chocolate
+Chris	ice-cream	vanilla
+Marie	ice-cream-cancellation	strawberry
+Sara	milk-shake	vanilla
+Meriem	ice-cream	lemon
+Ayoub	milk-shake	chocolate
+Younes	soft-cookies	vanilla
+Sophie	sweeties	sweeties
+Lisa	milk-shake	strawberry
+Ayoub	milk-shake-cancellation	vanilla
+Cristos	sweeties-cancellation	sweeties
+
+# a few duplicates	with a tab
+Coulson	resurrection	movie
+May	fight	mission
+Ward	role	traitor
+Quake	agent	earthquake
+Quake	agent	earthquake
+Fitz	specialty	technology
+Jemma	specialty	biochemistry
+May	fight	mission
+Fitz	specialty	technology
+Jemma	specialty	biochemistry
+Hunter	agent	mercenary
+Bobbi	agent	undercover
+Mack	new	director
+Mack	new	director

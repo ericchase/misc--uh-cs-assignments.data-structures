@@ -1,0 +1,9 @@
+Cat	open	bag
+Cat	buy	100
+Cat	discount%	10
+Cat	add	20
+Cat	discount%	50
+Cat	add	35
+Cat	discount%	0
+Cat	close	bag
+Cat	total

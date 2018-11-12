@@ -1,0 +1,11 @@
+Coog	open	bag
+Coog	open	bag
+Coog	buy	100
+Coog	discount%	10
+Coog	close	bag
+Coog	add	25
+Coog	discount%	20
+Coog	add	10
+Coog	close	bag
+Coog	discount%	5
+Coog	total
