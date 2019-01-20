@@ -3,7 +3,7 @@
 ## (Early deadline: Friday 1pm with +7 extra points, email instructor 1/2 hour before the dealine if you choose this option).
 
 You will create a C++ program that will combine notifications (using linked lists).
-There are many notifications in a text file. Each notification includes the person to which an email to which is sent to, a subject, and a message.
+There are many notifications in a text file. Each notification includes the person to which an email is sent to, a subject, and a message.
 The notifications need to be combined to make more efficient both the sending, and the actions by the person receiving them.
 
 ## Input
